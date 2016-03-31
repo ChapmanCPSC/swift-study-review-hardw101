@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  Assignment 4
+//  Assignment 3
 //
 //  Created by Chris Hardwick on 3/30/16.
 //  Copyright (c) 2016 Chris Hardwick. All rights reserved.

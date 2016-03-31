@@ -1,6 +1,6 @@
 //
-//  Assignment_4Tests.swift
-//  Assignment 4Tests
+//  Assignment_3Tests.swift
+//  Assignment 3Tests
 //
 //  Created by Chris Hardwick on 3/30/16.
 //  Copyright (c) 2016 Chris Hardwick. All rights reserved.
@@ -9,7 +9,7 @@
 import UIKit
 import XCTest
 
-class Assignment_4Tests: XCTestCase {
+class Assignment_3Tests: XCTestCase {
     
     override func setUp() {
         super.setUp()
